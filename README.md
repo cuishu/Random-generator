@@ -16,6 +16,7 @@ write_random_data(&n, sizeof(n));
 ```
 
 **Generate random number**
+
 Reference random.h
 
 ```c
